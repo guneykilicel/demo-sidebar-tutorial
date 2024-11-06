@@ -10,6 +10,62 @@ export default function Home() {
           <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
         </CardHeader>
       </Card>
+      <Card className="glex-grow">
+        <CardHeader>
+          <CardTitle>Lorem ipsum dolor sit amet.</CardTitle>
+          <CardDescription></CardDescription>
+          <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
+        </CardHeader>
+      </Card>
+      <Card className="glex-grow">
+        <CardHeader>
+          <CardTitle>Lorem ipsum dolor sit amet.</CardTitle>
+          <CardDescription></CardDescription>
+          <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
+        </CardHeader>
+      </Card>
+      <Card className="glex-grow">
+        <CardHeader>
+          <CardTitle>Lorem ipsum dolor sit amet.</CardTitle>
+          <CardDescription></CardDescription>
+          <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
+        </CardHeader>
+      </Card>
+      <Card className="glex-grow">
+        <CardHeader>
+          <CardTitle>Lorem ipsum dolor sit amet.</CardTitle>
+          <CardDescription></CardDescription>
+          <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
+        </CardHeader>
+      </Card>
+      <Card className="glex-grow">
+        <CardHeader>
+          <CardTitle>Lorem ipsum dolor sit amet.</CardTitle>
+          <CardDescription></CardDescription>
+          <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
+        </CardHeader>
+      </Card>
+      <Card className="glex-grow">
+        <CardHeader>
+          <CardTitle>Lorem ipsum dolor sit amet.</CardTitle>
+          <CardDescription></CardDescription>
+          <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
+        </CardHeader>
+      </Card>
+      <Card className="glex-grow">
+        <CardHeader>
+          <CardTitle>Lorem ipsum dolor sit amet.</CardTitle>
+          <CardDescription></CardDescription>
+          <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
+        </CardHeader>
+      </Card>
+      <Card className="glex-grow">
+        <CardHeader>
+          <CardTitle>Lorem ipsum dolor sit amet.</CardTitle>
+          <CardDescription></CardDescription>
+          <CardContent>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, nobis!</CardContent>
+        </CardHeader>
+      </Card>
     </div>
   );
 }
