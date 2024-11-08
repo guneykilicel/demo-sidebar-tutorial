@@ -33,7 +33,7 @@ export default function RootLayout({
         <SidebarProvider>
           <div className='grid grid-cols-[auto,1fr] w-full'>
             <AppSidebar />
-            <main className='flex flex-col h-screen owerflow-auto'>
+            <main className='flex flex-col h-screen owerflow-auto relative'>
               <SidebarTrigger />
               {children}
             </main>

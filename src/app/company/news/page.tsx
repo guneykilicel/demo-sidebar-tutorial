@@ -2,7 +2,7 @@ import React from 'react'
 
 const News = () => {
   return (
-    <div>News</div>
+    <div className='bg-white w-full h-full'>News</div>
   )
 }
 

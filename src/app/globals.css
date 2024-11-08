@@ -107,3 +107,35 @@ body {
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
 }
+
+.active-link::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -34px;
+  width: 40px;
+  background-color: red;
+  height: 100%;
+  background-color: var(--background);
+}
+
+.active-link::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -34px;
+  width: 40px;
+  background-color: red;
+  height: 100%;
+  background-color: var(--background);
+}
+
+.sidebar {
+  position: relative;
+  z-index: 10;
+}
+
+main {
+  position: relative;
+  z-index: 5;
+}
